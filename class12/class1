@@ -1,0 +1,15 @@
+Installation steps:
+To install Python: https://www.python.org/downloads || https://www.guru99.com/how-to-install-python.html (Till step 4)
+To install Git: https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
+Create an empty folder and name as "abhilasha" and now got to this folder
+After installation do git clone https://github.com/WETESTERR/WETESTERR-MENTEE-ABHILASHA
+To install VS Code(editor): https://code.visualstudio.com/download
+
+
+Python history
+It came in 1994 as python 1.0. Created by Guido Van Rossum in Netherland.
+Python is a simple, general purpose, high-level programming language
+OOPS + Interpreted scripting language
+We would focus on Python 3.8. It was released in 2019(Oct)
+Python has dynamic memory allocation feature.
+
