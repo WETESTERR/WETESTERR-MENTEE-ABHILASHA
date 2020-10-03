@@ -1,6 +1,6 @@
 # MENTEE-Abhilasha || Mentor-GauravOchani
 
-**JS Basics and Advance**
+**Python Basics and Advance**
 
 - Introductory class - Touchbase on understanding and running Python
 
