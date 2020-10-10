@@ -1,0 +1,20 @@
+Variables
+Variable nomenclature
+start from alphabet. Include underscore for multi-words
+Symbols(@, !, #, $) are not allowed(except _)
+
+Loops:
+Loops are used when you need to re-use the code or run code statements multiple times.
+For, While
+
+For => Sequence
+While => Conditions
+Identation in Python: Use correct spacing and colon
+
+Functions:
+Functions are also called methods. It is used for code reusability.
+
+Write a program to print factorial of a number. 
+Sample Input: 5
+Sample Output: 120
+Make use of function, loops, maths
