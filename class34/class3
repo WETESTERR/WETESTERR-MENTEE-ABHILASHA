@@ -1,0 +1,13 @@
+Python operators
+Operators are used to make operations on operands
+Comparator : ==, !=,<=, >=, <,>
+Assignment : =, +=, -=, *=
+Logical : and, or, not
+Arithmetic : +,-,*,/, %
+
+Strings
+In Python, string is the collection of the characters surrounded by single , double or tripple quotes.
+
+Strings are immutable
+
+Link to refer: https://www.javatpoint.com/python-strings
