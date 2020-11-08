@@ -1,0 +1,25 @@
+Conditional branching: if-else block
+
+List
+List is used to store the sequence of various data type
+These are mutable means we can modify the List
+These are ordered and accessed by index
+We can get the sub list using slicing:
+list_variable(start:stop:step)
+define by []
+
+Tuple:
+Same as List
+These are immutable
+define by ()
+
+Set:
+Set is a collection of unordered items
+Elements must be unique
+These are immutable
+Duplicate values would be removed
+Indexes are not used in Set
+define by {}
+
+Dictionary:
+Key-valued pair.
