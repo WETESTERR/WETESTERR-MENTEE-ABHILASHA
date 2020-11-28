@@ -1,0 +1,6 @@
+Object oriented programming in python (OOPs)
+Classes > A template or a blue print
+Objects > It is an instance of a class
+Inheritance > Acessing properties of parent class in child class
+Polymorphism > Same function name with different function structures. function has variables or body. Methods overloading(same body) or overriding(same args). Link: https://www.geeksforgeeks.org/difference-between-method-overloading-and-method-overriding-in-python/#:~:text=1.,same%20name%20and%20same%20signatures.&text=Method%20overloading%20is%20a%20example%20of%20compile%20time%20polymorphism.
+Abstraction/Interface > Hiding of code or exposing of code which is needed. Interface is 100% abstraction.
